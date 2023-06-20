@@ -1,10 +1,10 @@
 # DataProject
 
-Projeto realizado com o intuito de utilizar as ferramentas e serviços do Microsoft Azure
+No projeto foram utilizados os seguintes serviços:
 
 
-Datalake 
+Azure Datalake 
 
-ADF 
+Azure ADF 
 
-Databricks
+Azure Databricks
