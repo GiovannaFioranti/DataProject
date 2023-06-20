@@ -3,8 +3,10 @@
 No projeto foram utilizados os seguintes serviços:
 
 
-Azure Datalake 
+1) Azure Blob Storage: Para armazenamento inicial.
 
-Azure ADF 
+2) Azure ADF: Para cópia dos dados.
 
-Azure Databricks
+3) Azure Datalake: Para salvar os dados em arquivos '.parquet'.
+
+4) Azure Databricks: Para a limpeza e transformação dos dados.
