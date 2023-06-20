@@ -1,12 +1,12 @@
 # DataProject
 
-Projeto realizado com o intuito de utilizar as ferramentas do Microsoft Azure
+Projeto realizado com o intuito de utilizar as ferramentas e serviços do Microsoft Azure
 
 
 Azure Blob Storage 
 
-Azure Datalake 
+Datalake 
 
-Azure ADF 
+ADF 
 
-Azure Databricks
+Databricks
