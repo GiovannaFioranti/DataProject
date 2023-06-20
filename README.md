@@ -3,7 +3,7 @@
 Projeto realizado com o intuito de utilizar as ferramentas e serviços do Microsoft Azure
 
 
-Azure Blob Storage 
+Blob Storage 
 
 Datalake 
 
